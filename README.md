@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sofiene+%F0%9F%91%8B;AI+Engineer+building+cloud-native+systems;RAG+pipelines+%C2%B7+AWS+serverless+%C2%B7+Kubernetes" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiene-rouatbi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiennerouatbi5@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silverblack087@gmail.com)
 
 </div>
 
@@ -49,6 +49,14 @@ I'm a Software Engineer (MedTech) based in Montréal, QC, working across AI/ML s
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silverd087&theme=dark&hide_border=true" />
+</div>
+
+---
+
+### Contribution snake
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Silverd087/Silverd087/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
