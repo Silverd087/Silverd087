@@ -43,8 +43,8 @@ I'm a Software Engineer (MedTech) based in Montréal, QC, working across AI/ML s
 ### GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Silverd087&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silverd087&layout=compact&theme=dark&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Silverd087&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Silverd087&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
